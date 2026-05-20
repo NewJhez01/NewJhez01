@@ -1,11 +1,10 @@
 Backend engineer at Giffits (ex-Check24). I like code I can reason about.
 Tech I work with: 
-    - Go 
-    - React 
-    - Vue 
-    - PHP 
-     - AWS 
-     - Docker
+- Go 
+- React 
+- Vue 
+- PHP 
+- Docker
      
 What I believe:
 
