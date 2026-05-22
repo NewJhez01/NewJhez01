@@ -1,4 +1,5 @@
 Backend engineer at Giffits (ex-Check24). I love building and learning new things which is why I am working toward building systems from scratch, to understand the abstractions underneath and have a neat ecosystem of home built network and data stuff.
+
 Tech I work with: 
 - Go
 - TS with various Frameworks :>
