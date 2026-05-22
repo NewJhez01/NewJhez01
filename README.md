@@ -1,10 +1,12 @@
-Backend engineer at Giffits (ex-Check24). I like code I can reason about.
+Backend engineer at Giffits (ex-Check24). I love building and learning new things.
 Tech I work with: 
-- Go 
+- Go
+- TS
 - React 
 - Vue 
 - PHP 
 - Docker
+- Lua
      
 What I believe:
 
@@ -14,5 +16,4 @@ What I believe:
     Frameworks are fine until they hide the problem
 
 Currently building: [github-tracker](https://github.com/NewJhez01/github-tracker) here a [full write up](https://dev.to/newjhez01/beyond-crud-building-a-github-activity-tracker-to-level-up-backend-engineering-24he) Go, concurrency, clean architecture, Docker, systemd. Inspired by Designing Data-Intensive Applications.
-Previously: Migrated MPAs to SPAs. Optimized APIs via query tuning and caching. Shipped complex features under pressure.
-Working toward: Building systems from scratch. Not because I have to, but because I want to know how they work.
+Working toward: Building systems from scratch, to understand the abstractions underneath and have neat ecosystem of home built network stuff.
