@@ -11,6 +11,7 @@ Check my pinned stuff for cool projects I have done/currently working on.
 
 Articles I have written:
 - [GitHub Tracker Post mortem](https://dev.to/newjhez01/beyond-crud-building-a-github-activity-tracker-to-level-up-backend-engineering-24he)
+- [DNS resolver how I built it and why](https://dev.to/newjhez01/regaining-privacy-by-parsing-dns-requests-bit-by-bit-462h)
 
 My ideology:
 - Understand the layer below the one you work in
